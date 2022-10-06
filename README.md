@@ -3,11 +3,10 @@
 ![A JavaScript / Typescript developer](https://github.com/EArnold1/EArnold1/blob/main/Welcome_to_my_github_profile_%F0%9F%99%83.png?raw=true)
 
 ## About me:
-I'm a self taught web developer who loves JavaScript and ***Typescript*** 😁.
+JavaScript and ***Typescript*** 😁.
 
 ![Profile views](https://gpvc.arturio.dev/EArnold1)  
 
-- 🔭 I’m currently working on Soundmac and marketAd 
 - 🌱 I’m currently learning new versions of my tech stack 
 - 💬 Ask me about Anything js and ts 
 - 📫 How to reach me: arnoldddev@gmail.com 
