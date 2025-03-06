@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Arnold
-#### A JavaScript / Typescript developer
+#### A JavaScript | Typescript | Rust developer
 ![A JavaScript / Typescript developer](https://github.com/EArnold1/EArnold1/blob/main/Welcome_to_my_github_profile_%F0%9F%99%83.png?raw=true)
 
 ## About me:
