@@ -8,8 +8,8 @@ JavaScript and ***Typescript*** 😁.
 ![Profile views](https://gpvc.arturio.dev/EArnold1)  
 
 - 🌱 I’m currently learning new versions of my tech stack 
-- 💬 Ask me about Anything js and ts 
-- 📫 How to reach me: arnoldddev@gmail.com 
+- 💬 Ask me about anything JS, TS and Rust
+- 📫 How to reach me: arnoldemmanuel15@gmail.com 
 - ⚡ Fun fact: I don't find it funny building UI's 😁 
 
 
@@ -18,5 +18,5 @@ JavaScript and ***Typescript*** 😁.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EArnold1)](https://github.com/anuraghazra/github-readme-stats)
 
-#### connect with me
+#### Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EArnold1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arnoldddev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/qrArnoldd) 
