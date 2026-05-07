@@ -1,4 +1,4 @@
-I'm a software engineer with a thing for low level systems and complicated architectures.
+I'm a software engineer with a thing for low level systems and complex architectures.
 
 I love computers even though I don't fully understand them.
 
